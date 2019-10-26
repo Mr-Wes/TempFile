@@ -1,0 +1,1 @@
+chrome.exe --new-window https://www.jianshu.com/writer#/notebooks/40140302/notes/54880842
